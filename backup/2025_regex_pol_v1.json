@@ -1,1 +1,10 @@
-
+[
+    {
+      "name": "pol1",
+      "pattern": "/\\b(A(FO|4O|NONiM|S76|ZQ)|AdL|alE13|Alusia|azjatycki|B(P007|ODZiO|89|i(DA|RD)|RX)|C(AMBiO|HOPiN|hrisVPS|iNEMAET|oLO|RU)|D(ReaM|ENDA|eiX|SiTE|ZiDEK)|d(11|evil-bad)|E(MiS|nTeR1973|speranza|Team)|e(end|lladajarek)|F(eld|ileTracker|PL)|G(amer158|hN|HW|R4PE|UN)|H(3Q|MDb|EN|T)|Izyk|inTGrity|J(60|25)|joanna668|K(12|37|83|8|041|buso|DE|i(lKr|T|KO)|LiO|PFR|RT|SQ)|L(iMiT|EX|LO|T(N|S)|ysol1)|M(ORS|AXX|AXiM|56|80|ixio|iNS|R)|m(aksim80|arjos83)|N(itroTeam|EO|INE|N|0(B0DY|L4)|o(NaNo|Q))|O(DiSON|zW)|P(dlG|S(iG|OTNIK)|iratesZone|TRG)|presa|R(22|68|alf|obSil|X)|raven|S(56|K13|nOoP|pedboy|tarLordX|tarLord|YRIX)|s(pajk85|av|y5ka)|ToP2P|taboon1|wasik|wosiu|WiZARDS|X(uploaD|TE)|Z(et|T)|zyl|-(FT|OK))\\b/"
+    },
+    {
+      "name": "pol2",
+      "pattern": "/\\b(3d11|a(gusiq|l3x)|b(est-torrents|igbbs)|cool-torents|d(abrjarek|evil-torrents|ubbpl)|e(lectro-torrent|x-torrenty)|fiona9|kolekcja|lektor(pl)?|m(arcin0313|iniserial)|n(api(project|sy(pl)?)|icollubin)|odc(inek)?|p(2p|aczka|ixi|l(?:_1080p_web|dub|sub(?:bed)?)?|ol(?:ish|ski(?:e-torrenty|pl)?)?)|rekonstrukcja|s(ezon|fpi|hadows-torrents|harpe|uperseed|yntezator)|t(ds|fsh|oalien|opfilmyfilmweb|orrent(maniak|y))|vantablack|w(ersja|ilu(75)?)|xtorrenty|zbyszek)\\b|Rip\\s+by\\s+RaptCat|ekipa\\s+tnt|[ąćęłńśźż]/i"
+    }
+]

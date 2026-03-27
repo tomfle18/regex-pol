@@ -5,6 +5,6 @@
     },
     {
       "name": "pol2",
-      "pattern": "/^(?=.*(?:[ąćęłńśźżĄĆĘŁŃŚŹŻ]|\\b(?:3d11|agusiq|al3x|best-torrents|bigbbs|cool-torents|dabrjarek|devil-torrents|dub(?:bpl|pl|bing|bingpl)|ekipa[-_. ]tnt|electro-torrent|ex-torrenty|fiona9|kolekcja|lektor(?:pl)?|marcin0313|miniserial|napiproject|napisy(?:pl)?|nicollubin|odc(?:inek)?|paczka|pl(?:[-_. ]1080p[-_. ]web|dub|sub(?:bed)?)?|pol(?:ish(?:torrent\\.top)?|ski|skie[-_. ]torrenty)?|ptt|rekonstrukcja|Rip[-_. ]by[-_. ]RaptCat|sezon|sfpi|shadows-torrents|sharpe|superseed|syntezator|tds|tfsh|toalien|topfilmyfilmweb|torrent(?:maniak|y|leech\\.pl)|vantablack|wersja|wilu(?:75)?|xtorrenty|zbyszek|sub(?:pl|bedpl))\\b)).*/i"
+      "pattern": "/^(?=.*(?:[ąćęłńśźżĄĆĘŁŃŚŹŻ]|\\b(?:3d11|agusiq|al3x|best-torrents|bigbbs|cool-torents|dabrjarek|devil-torrents|dub(?:bpl|pl|bingpl)|ekipa[-_. ]tnt|electro-torrent|ex-torrenty|fiona9|kolekcja|lektor(?:pl)?|marcin0313|miniserial|napiproject|napisy(?:pl)?|nicollubin|odc(?:inek)?|paczka|pl(?:[-_. ]1080p[-_. ]web|dub|sub(?:bed)?)?|pol(?:ish(?:torrent\\.top)?|ski|skie[-_. ]torrenty)?|ptt|rekonstrukcja|Rip[-_. ]by[-_. ]RaptCat|sezon|sfpi|shadows-torrents|sharpe|superseed|syntezator|tds|tfsh|toalien|topfilmyfilmweb|torrent(?:maniak|y|leech\\.pl)|vantablack|wersja|wilu(?:75)?|xtorrenty|zbyszek|sub(?:pl|bedpl))\\b)).*/i"
     }
 ]
